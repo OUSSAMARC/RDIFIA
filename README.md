@@ -1,1 +1,1 @@
-# TPs (code and report) about deep learning (CNN, Transformers, Domain adaptation ...)
+# TPs (code and report) about deep learning (CNN, Transformers, GAN, Domain adaptation ...)
